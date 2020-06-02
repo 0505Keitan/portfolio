@@ -32,7 +32,7 @@ export default {
   background: #00510d none repeat scroll 0% 0%;
   color: #E3E3E3;
   display: inline-block;
-  width: 100%;
+  /* width: 100%; */
   margin-right: 10px; }
 img {
   display: block;
