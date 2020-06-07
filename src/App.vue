@@ -3,6 +3,7 @@
     <div class="box">
       <cardImg class="card" title="Scoreboard" tags="nodejs"  description="さまざまな場面で利用できるスコアボードです。2つ以上デバイスを用意するだけで簡単に利用ができます。" link="https://keitan-node.herokuapp.com/" img="static/scoreboard.png"/>
       <card class="card" title="「ポ」「プ」「テ」「ピ」「ッ」「ク」をランダムに出力して「ポプテピピック」が完成したら竹●房を破壊するjs" tags="JavaScript"  description="タイトルの通りです。" link="https://toliner.github.io/gen_pptp/"/>
+      <card class="card" title="簡易タスク管理ツール" tags="PHP,JavaScript,受託開発"  description="外部に接続できない状況でApacheのみ起動の状態で動かす必要があり、利用する人も限られているのでテキストベースのデータベースを利用しました。" link=""/>
       <card class="card" title="Twitcasting Discord Commenter" tags="nodejs" description="ツイキャスのコメントをエンターで送信できないのでDiscordからコメントできるようにするやつです。" link="https://github.com/0505Keitan/twitcasting-discord-commenter"/>
       <cardImg class="card" title="Engineer's Life" tags="LINEスタンプ" description="LINEスタンプです。" link="https://line.me/S/sticker/6863891" img="https://stickershop.line-scdn.net/stickershop/v1/product/6863891/LINEStorePC/main.png"/>
       <cardImg class="card" title="Yasashi Kakumei Labo Tweet Client" tags="PHP,TwitterOAuth" description="やさしいかくめいラボ運営用のツイートクライアントでした。" link="https://twitter.com/yasashikakumei" img="https://0505keitan.com/archive/web/images/yasashiikakumeilab.jpg"/>
