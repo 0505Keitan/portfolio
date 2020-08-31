@@ -1,5 +1,14 @@
 [
   {
+    "title": "Minecraft Plugin",
+    "tags": [
+      "Java"
+    ],
+    "description": "初めてJavaを使って時間を見れるプラグインを作成しました。",
+    "link": "https://github.com/0505Keitan/Clock",
+    "img": "no_image.jpg"
+  },
+  {
     "title": "Scoreboard",
     "tags": [
       "nodejs"
